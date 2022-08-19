@@ -15,15 +15,15 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 ### Setup Steps
 
 1. GitHub repo
-    1. Copy the template repository
-    1. Setup Netlify
-    1. Clone local
-    1. Make dev branch, make sure to push this branch to github
-    1. You will create a feature branch off dev for the days work
-    1. Work in VS Code as usual
+    [x]1. Copy the template repository
+    [x]1. Setup Netlify
+    [x]1. Clone local
+    [x] 1. Make dev branch, make sure to push this branch to github
+    [x] 1. You will create a feature branch off dev for the days work
+    [x] 1. Work in VS Code as usual
 1. Supabase
-    1. Make new project (copy password for using tools like beekeeper)
-    1. From "auth>settings>email", turn off email confirmations and save
-    1. From "sql editor", new script and run starter schema `db/schema.sql`
-    1. From "sql editor", new script and run starter category data `db/categories.sql`
-    1. From "settings > api", copy URL and Key into `fetch-utils.js`
+    [x]1. Make new project (copy password for using tools like beekeeper)
+    [x] 1. From "auth>settings>email", turn off email confirmations and save
+    [x] 1. From "sql editor", new script and run starter schema `db/schema.sql`
+    [x] 1. From "sql editor", new script and run starter category data `db/categories.sql`
+    [x]   1. From "settings > api", copy URL and Key into `fetch-utils.js`
